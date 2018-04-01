@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Jorgito framework 5.0 mmlpqtp!!!! ahhhhhhhhhhhhhhhhhhhhhh</title>
+        <title>Jorgito framework 6.0 </title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
